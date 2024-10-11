@@ -1,3 +1,4 @@
 {
-  "dependencyDashboardApproval": true
+  "dependencyDashboardApproval": true,
+  "ignoreDeps": ["node"]
 }
